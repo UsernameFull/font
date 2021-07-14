@@ -9,3 +9,4 @@
 - [Iosevka](https://github.com/be5invis/Iosevka)
 - [Inconsolata](https://fonts.google.com/specimen/Inconsolata#about)
 - [MonoLisa](https://www.monolisa.dev/)
+- [cascadia](https://github.com/microsoft/cascadia-code)
