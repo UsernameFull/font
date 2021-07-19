@@ -16,3 +16,4 @@
 ### 中文
 
 -[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
+-[思源等宽](https://github.com/adobe-fonts/source-han-mono/)
