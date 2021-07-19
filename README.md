@@ -17,3 +17,4 @@
 
 -[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
 -[思源等宽](https://github.com/adobe-fonts/source-han-mono/)
+-[更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
